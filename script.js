@@ -26,8 +26,8 @@ function printPascal(n) {
   return mat;
 }
 
-// Set n to 4
-const n = 4;
+// Set n to 3
+const n = 3;
 const mat = printPascal(n);
 
 // Loop to display the triangle line by line
