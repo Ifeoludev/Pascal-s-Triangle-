@@ -1,4 +1,5 @@
-In this project, I wrote a JavaScript program that generates Pascal’s Triangle up to 4 rows using dynamic programming. The goal was to understand how each number in the triangle is formed and how to build it using arrays and loops.
+In this project, I wrote a JavaScript program that generates Pascal’s Triangle 3 rows using dynamic programming. The goal was to understand how each number in the triangle is formed and how to build it using arrays and loops(This was after series of googling and youtube, and learning)
+
 
 ## How Pascal’s Triangle Works
 
