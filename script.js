@@ -26,7 +26,7 @@ function printPascal(n) {
   return mat;
 }
 
-// Set n to 3
+// Set n to 3 as required
 const n = 3;
 const mat = printPascal(n);
 
